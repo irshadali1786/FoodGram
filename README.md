@@ -31,6 +31,26 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+
+![FoodGram Homepage](screenshots/homepage.jpg)
+
+### 🔐 Login Page
+
+![FoodGram Login](screenshots/login_page.jpg)
+
+### 🍽️ Create Post
+
+![FoodGram Create Post](screenshots/new_id.jpg)
+
+### 👤 Profile Page
+
+![FoodGram Profile](screenshots/profile.jpg)
+
+---
+
 ## 📁 Project Structure
 
 ```
